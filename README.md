@@ -1,5 +1,4 @@
 # CS791_LLM
-Overleaf report link : https://www.overleaf.com/read/njxcknwgdbpm#c990ff
 
 # Dataset
 Download the dataset from the official VQA website(https://visualqa.org/vqa_v1_download.html). Make sure to download the images, questions and annotations. We used V1 but it can be used for V2 as well. 
