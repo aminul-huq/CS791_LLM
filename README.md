@@ -1,5 +1,8 @@
 # CS791_LLM
 
+# Enviroment
+Install the environment.yml to load all the necessary libraries.
+
 # Dataset
 Download the dataset from the official VQA website(https://visualqa.org/vqa_v1_download.html). Make sure to download the images, questions and annotations. We used V1 but it can be used for V2 as well. 
 In the main.ipynb file adjust the paths of the downloaded files. 
